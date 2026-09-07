@@ -7,7 +7,8 @@
   <a href="https://github.com/abdulrahman-103/kitab/blob/main/README_EN.md">English</a>
 </p>
 
-<img width="1920" height="1020" alt="Screenshot_20260816_172951" src="https://github.com/user-attachments/assets/20731baf-593c-4d71-8cc6-5b1864ebd7f3" />
+<img width="1920" height="1080" alt="Screenshot_20260907_134656" src="https://github.com/user-attachments/assets/6b3c4e79-c6ef-42b4-ac8c-b99a4cdf4ab2" />
+
 
 ---
 
