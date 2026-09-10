@@ -17,6 +17,7 @@ sudo chmod 644 /usr/share/applications/kitab.desktop
 
 sudo cp -r ./src /usr/share/kitab
 sudo cp -r ./data /usr/share/kitab
+sudo cp -r ./resources /usr/share/kitab
 
 sudo cp ./data/kitab /usr/bin/kitab
 sudo chmod +x /usr/bin/kitab
