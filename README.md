@@ -43,7 +43,7 @@ kitab
 ### Arch Linux
 
 ```bash
-sudo pacman -Syu git pyside6 nim
+sudo pacman -S git pyside6 nim
 nimble install nimpy zippy
 git clone https://github.com/abdulrahman-103/kitab
 cd kitab
